@@ -13843,5 +13843,31 @@
     ],
     "date_added": "2026-03-22T16:00:50.325436+00:00",
     "date_modified": "2026-03-22T16:00:50.325436+00:00"
+  },
+  "1cffde3e7772a118c3a1bd0cb14db74a5be38cd7bdcb7c404944d47c82b5d192": {
+    "name": "Sorrows Calmed",
+    "tags": [
+      "music",
+      "Genshin Impact: Song of the Welkin Moon: Outside It Is Growing Dark"
+    ],
+    "notes": "",
+    "file_ids": [
+      598834395
+    ],
+    "date_added": "2026-09-07T22:05:01.116557",
+    "date_modified": "2026-09-07T22:05:01.116557"
+  },
+  "1acc8a7ff48821949c446e80e73a84b36d27a4a1b5f05913e3fbce2bb392561f": {
+    "name": "The Forbidding Ground",
+    "tags": [
+      "music",
+      "Genshin Impact: Song of the Welkin Moon: Outside It Is Growing Dark"
+    ],
+    "notes": "",
+    "file_ids": [
+      967411535
+    ],
+    "date_added": "2026-09-07T22:07:46.093552",
+    "date_modified": "2026-09-07T22:07:46.093552"
   }
 }
